@@ -1,0 +1,9 @@
+#jetbrains trash
+*.iml
+*.ipr
+*.iws
+*.bak
+.idea/
+/build/
+/dist/
+/out/
